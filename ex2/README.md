@@ -1,6 +1,3 @@
 
-
-![Giao diện Đăng nhập - Login UI](https://github.com/user-attachments/assets/71d823ad-be55-4c6c-8706-55da71dd5761)
-
-
-![Giao diện Đăng ký - Sign Up UI](https://github.com/user-attachments/assets/5a092deb-4d21-4344-af6e-b9f9c8713ba8)
+<img width="360" height="720" alt="screenshot-2025-11-14_13 26 38 508" src="https://github.com/user-attachments/assets/c70acb32-e760-41ff-87d7-fb2aa8f8cf2c" />
+<img width="360" height="720" alt="screenshot-2025-11-14_13 28 40 074" src="https://github.com/user-attachments/assets/f359c43f-b057-4894-b854-b16c5e922628" />
