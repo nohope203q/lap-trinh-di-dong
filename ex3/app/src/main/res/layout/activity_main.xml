@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btn_to_test1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chuyển sang Test 1 (ListView)"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btn_to_test2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chuyển sang Test 2 (GridView)"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btn_to_test3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chuyển sang Test 3 (RecyclerView)"/>
+
+</LinearLayout>
